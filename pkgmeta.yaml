@@ -1,0 +1,4 @@
+package-as: AdiBags_Lowlevel
+ignore:
+    - README.md
+    - pkgmeta.yaml
