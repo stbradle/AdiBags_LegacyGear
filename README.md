@@ -1,3 +1,3 @@
-# AdiBags\_Lowlevel
+# AdiBags\_LegacyGear
 
-Low ilvl filter for AdiBags
+Customizable legacy gear filter for AdiBags

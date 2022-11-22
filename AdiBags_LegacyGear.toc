@@ -1,0 +1,10 @@
+## Interface: 100002
+
+## Title: AdiBags - LegacyGear
+## Notes: Adds filters for Legacy Gear to AdiBags. 
+## Author: steve
+## Version: 1.0
+
+## Dependencies: AdiBags
+
+AdiBags_LegacyGear.lua
