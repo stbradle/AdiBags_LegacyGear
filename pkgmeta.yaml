@@ -1,4 +1,4 @@
-package-as: AdiBags_Lowlevel
+package-as: AdiBags_LegacyGear
 ignore:
     - README.md
     - pkgmeta.yaml
